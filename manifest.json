@@ -1,0 +1,8 @@
+{
+  "domain": "test",
+  "name": "Skarpt_Test",
+  "after_dependencies": ["http"],
+  "codeowners": ["@Skarpt"],
+  "dependencies": ["mqtt"],
+  "documentation": "https://github.com/OmarAGamal/skarptTest"
+}
